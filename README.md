@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Passionate code developer.
+#### Passionate code developer. Currently working at [Causaly](https://www.causaly.com/) as Senior Full-Stack Application Engineer.
 
-### Currently working at [Causaly](https://www.causaly.com/) as Senior Full-Stack Application Engineer.
-
-### When not working I am hunting deamons and dragons.
+When not working I am hunting deamons and dragons.
