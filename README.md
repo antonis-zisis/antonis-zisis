@@ -1,5 +1,9 @@
-### Hi there 👋
+Hey there,
 
-#### Passionate code developer. Currently working at [Causaly](https://www.causaly.com/) as Senior Full-Stack Application Engineer.
+I am **Antonis** and I am a full stack software engineer.
 
-When not working I am hunting deamons and dragons.
+I enjoy web and mobile development.
+
+I am currently working at [Causaly](https://www.causaly.com/) as a full stack application engineer.
+
+When not working I enjoy going to the gym and playing video games.
