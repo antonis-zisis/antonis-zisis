@@ -1,7 +1,7 @@
-Hey hey,
+Hello! I'm Antonis, a software engineer from Kalamata, Greece. I hold a B.Sc. in Software Engineering from the University of Salford, U.K., and I've been working in the industry for over a decade. Throughout my career, I've contributed to both small startups and large corporations, gaining experience across diverse environments.
 
-My name is **Antonis** and I am a Full-Stack Software Engineer from Greece! I enjoy writting code for the web and mobile apps, mostly using React and React-Native.
+I'm passionate about building innovative desktop and mobile applications, as well as crafting responsive websites and backend systems. I stay up to date with the latest technologies in app and web development, always striving to deliver top-tier functionality and seamless user experiences. Custom UI design is a priority for me, ensuring that every project is both visually appealing and user-friendly.
 
-I am currently working at [Kaizen Gaming](https://kaizengaming.com/home), leveling up the gaming experience for millions around the world.
+Currently, I'm a Software Engineering Team Lead at Kaizen, where I lead a team of seven in developing live event pages for Stoiximan and Betano. My role involves technical decision-making, mentoring, and fostering team growth.
 
-When not working I enjoy going to the gym and playing video games.
+Outside of work, I enjoy hitting the gym, playing video games, and watching movies.
