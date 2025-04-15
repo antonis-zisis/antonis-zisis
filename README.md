@@ -1,4 +1,4 @@
-Hello! I'm Antonis, a software engineer from Kalamata, Greece. I hold a B.Sc. in Software Engineering from the University of Salford, U.K., and I've been working in the industry for over a decade. Throughout my career, I've contributed to both small startups and large corporations, gaining experience across diverse environments.
+Hey there! :wave: I'm Antonis, a software engineer from Kalamata, Greece. I hold a B.Sc. in Software Engineering from the University of Salford, U.K., and I've been working in the industry for over a decade. Throughout my career, I've contributed to both small startups and large corporations, gaining experience across diverse environments.
 
 I'm passionate about building innovative desktop and mobile applications, as well as crafting responsive websites and backend systems. I stay up to date with the latest technologies in app and web development, always striving to deliver top-tier functionality and seamless user experiences. Custom UI design is a priority for me, ensuring that every project is both visually appealing and user-friendly.
 
