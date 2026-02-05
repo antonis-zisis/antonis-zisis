@@ -4,4 +4,6 @@ I'm passionate about building innovative desktop and mobile applications, as wel
 
 Currently, I'm a Software Engineering Team Lead at [Kaizen](https://kaizengaming.com/home), where I lead a team of seven in developing live event pages for Stoiximan and Betano. My role involves technical decision-making, mentoring, and fostering team growth.
 
+Lately, I’ve been experimenting with Claude Code and want to incorporate it into my day-to-day work to boost my productivity.
+
 Outside of work, I enjoy hitting the gym, playing video games, and watching movies.
