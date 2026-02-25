@@ -1,9 +1,9 @@
-Hey there! :wave: I'm Antonis, a software engineer from Kalamata, Greece. I hold a B.Sc. in Software Engineering from the University of Salford, U.K., and I've been working in the industry for over a decade. Throughout my career, I've contributed to both small startups and large corporations, gaining experience across diverse environments.
+Hey there! 👋 I’m Antonis, a software engineer based in Kalamata, Greece. I hold a B.Sc. in Software Engineering from the University of Salford and bring over a decade of professional experience across both startups and large-scale organizations.
 
-I'm passionate about building innovative desktop and mobile applications, as well as crafting responsive websites and backend systems. I stay up to date with the latest technologies in app and web development, always striving to deliver top-tier functionality and seamless user experiences. Custom UI design is a priority for me, ensuring that every project is both visually appealing and user-friendly.
+I specialize in building robust backend systems, responsive web applications, and modern desktop and mobile experiences. I’m passionate about clean architecture, thoughtful system design, and crafting intuitive user interfaces that balance aesthetics with usability. Staying current with evolving technologies is a core part of my workflow, enabling me to deliver scalable, high-quality solutions.
 
-Currently, I'm a Software Engineering Team Lead at [Kaizen](https://kaizengaming.com/home), where I lead a team of seven in developing live event pages for Stoiximan and Betano. My role involves technical decision-making, mentoring, and fostering team growth.
+Currently, I serve as a Software Engineering Team Lead at [Kaizen Gaming](https://kaizengaming.com/home), where I lead a team of seven engineers developing live event platforms for Stoiximan and Betano. My responsibilities include technical leadership, architectural decision-making, and mentoring engineers to help them grow and perform at their best.
 
-Lately, I’ve been experimenting with Claude Code and want to incorporate it into my day-to-day work to boost my productivity.
+Recently, I’ve been exploring Claude Code to streamline workflows and automate repetitive engineering tasks, allowing greater focus on high-value problem solving and system design.
 
-Outside of work, I enjoy hitting the gym, playing video games, and watching movies.
+Outside of engineering, you’ll find me at the gym, gaming, or watching movies.
